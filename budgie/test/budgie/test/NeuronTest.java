@@ -1,8 +1,8 @@
 package budgie.test;
 
-import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.CoreMatchers.*;
 import static org.mockito.Mockito.*;
+import static org.junit.Assert.*;
 
 import java.util.HashSet;
 import java.util.Map;
